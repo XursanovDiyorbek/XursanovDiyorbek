@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Diyorbek Xursanov — AI Engineering and Data Science</title>
-  <desc id="desc">Reliable agents. Reproducible analysis. Useful decisions.</desc>
+  <desc id="desc">Python and C++ for reproducible data and AI systems.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#102b42"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#14b8a6" stop-opacity=".34"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
@@ -15,6 +15,6 @@
   <rect x="60" y="54" width="350" height="31" rx="15" fill="#1c4653" stroke="#4fd1c5" stroke-opacity=".55"/>
   <text x="78" y="75" fill="#9df4e6" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2">AI ENGINEERING  /  DATA SCIENCE</text>
   <text x="60" y="168" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="53" font-weight="700">Diyorbek Xursanov</text>
-  <text x="62" y="218" fill="#c3d5e4" font-family="Segoe UI,Arial,sans-serif" font-size="22">Reliable agents. Reproducible analysis. Useful decisions.</text>
+  <text x="62" y="218" fill="#c3d5e4" font-family="Segoe UI,Arial,sans-serif" font-size="22">Python + C++  /  Reproducible work  /  Measured progress</text>
   <path d="M62 252H430" stroke="#3dd9c5" stroke-width="3"/>
 </svg>

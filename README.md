@@ -1,41 +1,30 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Diyorbek Xursanov — AI Engineering and Data Science" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Diyorbek Xursanov — AI engineering and data science" width="100%" />
 </p>
 
 <p align="center">
-  <a href="#focus">Focus</a> · <a href="#stack">Stack</a> · <a href="#selected-work">Selected work</a>
+  <strong>Python · C++ · AI engineering · Data science</strong>
 </p>
 
-I work at the intersection of **AI engineering, data science, and dependable software**. I am interested in systems that turn messy operational data into clear, testable decisions. My current work includes a director-facing AI agent with bounded access to source data and an auditable evaluation workflow.
+I am Diyorbek Xursanov, building a foundation in AI engineering and data science through code, experiments, and careful evaluation. I use Python and C++ and am developing the statistical, machine learning, and systems skills needed to build dependable AI software.
 
-## Focus
+## Direction
 
-| AI engineering | Data science | Delivery |
-| --- | --- | --- |
-| Tool boundaries, grounded answers, agent evaluation | Data quality, analysis, reproducible experiments | APIs, access control, tests, CI |
+| Area | What I am working toward |
+| --- | --- |
+| Data science | Clean data, sound analysis, reproducible experiments, and honest interpretation. |
+| Machine learning | Baselines, valid evaluation, error analysis, and documented tradeoffs. |
+| AI engineering | Reliable applications with measured behavior, clear limits, and human oversight. |
+| Systems | C++ fundamentals, algorithms, performance measurement, and efficient inference. |
 
-## Stack
+## Learning in public
 
-**In current projects**
+My [roadmap through May 2027](./ROADMAP.md) defines concrete monthly deliverables and a daily practice rhythm. The goal is to publish work that another person can run, inspect, and question. I will link finished, reproducible projects here as they are ready.
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-24527A?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="Gemini API" src="https://img.shields.io/badge/Gemini%20API-6B5BCE?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
+**Current focus:** establish a small Python analysis workflow with a documented dataset, tests, and a baseline; practice C++ algorithms with correctness checks and measured runtime.
 
-**Areas I am developing:** NumPy, pandas, scikit-learn, PyTorch, experimental design, and model evaluation. I will add public projects for these as the work becomes reproducible and reviewable.
+## Engineering standard
 
-## Selected work
+For public work, I aim to include a clear problem statement, reproducible setup, data provenance, an appropriate baseline, tests, results, and limitations. Progress is reflected in the work itself, not in badges or a contribution count.
 
-**Decision-support agent** · Built a read-only AI workflow that summarizes operational signals, cites source records, and keeps approvals with a human. The work includes permission limits, usage limits, and evaluation cases.
-
-**Data integrity and reporting** · Built reconciliation and audit workflows around a transactional system, with backup rehearsal and release checks so reported figures can be traced to source records.
-
-The production repositories are private. Public case studies and small reproducible experiments will be linked here when ready.
-
----
-
-<p align="center"><sub>Based in Uzbekistan · Building in public where the data and code can be shared safely.</sub></p>
+<p align="center"><sub>Uzbekistan · Open to learning, collaboration, and thoughtful review.</sub></p>
