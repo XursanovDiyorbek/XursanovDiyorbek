@@ -21,7 +21,11 @@ I am Diyorbek Xursanov, building a foundation in AI engineering and data science
 
 My [roadmap through May 2027](./ROADMAP.md) defines concrete monthly deliverables and a daily practice rhythm. The goal is to publish work that another person can run, inspect, and question. I will link finished, reproducible projects here as they are ready.
 
-**Current focus:** establish a small Python analysis workflow with a documented dataset, tests, and a baseline; practice C++ algorithms with correctness checks and measured runtime.
+## Public work
+
+- [C++ matrix foundations](https://github.com/XursanovDiyorbek/cpp-ai-data-science-core) — a small C++17 module for transpose, multiplication, and diagonal sums, with shape validation and automated tests. The README states its scope and limitations.
+
+**Current focus:** build a reproducible Python data analysis with a documented dataset, baseline, tests, and honest limitations.
 
 ## Engineering standard
 
