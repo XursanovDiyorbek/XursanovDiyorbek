@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Diyorbek Xursanov — AI Engineering and Data Science</title>
+  <desc id="desc">Reliable agents. Reproducible analysis. Useful decisions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#102b42"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#14b8a6" stop-opacity=".34"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8bc9e0" stroke-opacity=".12"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <circle cx="985" cy="150" r="230" fill="url(#glow)"/>
+  <path d="M745 230 C815 210 830 115 900 132 S1000 248 1085 95" fill="none" stroke="#3dd9c5" stroke-width="3" stroke-opacity=".8"/>
+  <path d="M735 260 C815 245 860 198 910 220 S1010 165 1115 215" fill="none" stroke="#69bdf8" stroke-width="2" stroke-opacity=".7"/>
+  <g fill="#b2f5ea"><circle cx="900" cy="132" r="6"/><circle cx="1085" cy="95" r="6"/><circle cx="910" cy="220" r="5"/></g>
+  <rect x="60" y="54" width="350" height="31" rx="15" fill="#1c4653" stroke="#4fd1c5" stroke-opacity=".55"/>
+  <text x="78" y="75" fill="#9df4e6" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2">AI ENGINEERING  /  DATA SCIENCE</text>
+  <text x="60" y="168" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="53" font-weight="700">Diyorbek Xursanov</text>
+  <text x="62" y="218" fill="#c3d5e4" font-family="Segoe UI,Arial,sans-serif" font-size="22">Reliable agents. Reproducible analysis. Useful decisions.</text>
+  <path d="M62 252H430" stroke="#3dd9c5" stroke-width="3"/>
+</svg>

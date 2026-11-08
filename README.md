@@ -1,18 +1,41 @@
-# Diyorbek Xursanov
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Diyorbek Xursanov — AI Engineering and Data Science" width="100%" />
+</p>
 
-I build software that makes education operations easier to run and easier to audit.
+<p align="center">
+  <a href="#focus">Focus</a> · <a href="#stack">Stack</a> · <a href="#selected-work">Selected work</a>
+</p>
 
-I am working on **Excellent School**: a CRM and Telegram Mini App for enrollment, attendance, payments, finance, and staff workflows across learning center branches. The goal is to give teams one dependable place to record work and give directors a clear view of what needs attention.
+I work at the intersection of **AI engineering, data science, and dependable software**. I am interested in systems that turn messy operational data into clear, testable decisions. My current work includes a director-facing AI agent with bounded access to source data and an auditable evaluation workflow.
 
-## What I work on
+## Focus
 
-- **Full-stack product engineering:** TypeScript, React, Next.js, APIs, Prisma, and SQLite.
-- **Reliable operations:** role-based access, audit trails, tests, and release checks.
-- **Useful AI:** director-facing insights grounded in system data, with narrow permissions and human review.
+| AI engineering | Data science | Delivery |
+| --- | --- | --- |
+| Tool boundaries, grounded answers, agent evaluation | Data quality, analysis, reproducible experiments | APIs, access control, tests, CI |
 
-## Current projects
+## Stack
 
-- **Excellent School CRM** — branch operations, student records, financial workflows, and director oversight.
-- **Excellent School Mini App** — mobile experiences for students, parents, teachers, and directors.
+**In current projects**
 
-The application repositories are private while production details are separated from shareable examples. I will publish focused demos and technical write-ups as they become ready.
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-24527A?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="Gemini API" src="https://img.shields.io/badge/Gemini%20API-6B5BCE?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+**Areas I am developing:** NumPy, pandas, scikit-learn, PyTorch, experimental design, and model evaluation. I will add public projects for these as the work becomes reproducible and reviewable.
+
+## Selected work
+
+**Decision-support agent** · Built a read-only AI workflow that summarizes operational signals, cites source records, and keeps approvals with a human. The work includes permission limits, usage limits, and evaluation cases.
+
+**Data integrity and reporting** · Built reconciliation and audit workflows around a transactional system, with backup rehearsal and release checks so reported figures can be traced to source records.
+
+The production repositories are private. Public case studies and small reproducible experiments will be linked here when ready.
+
+---
+
+<p align="center"><sub>Based in Uzbekistan · Building in public where the data and code can be shared safely.</sub></p>
